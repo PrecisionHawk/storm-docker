@@ -1,5 +1,5 @@
-FROM wurstmeister/storm:0.9.4
-MAINTAINER Wurstmeister
+FROM precisionhawk/storm:0.9.5
+MAINTAINER PrecisionHawk
 
 EXPOSE 6700
 EXPOSE 6701
